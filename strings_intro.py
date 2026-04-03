@@ -1,0 +1,5 @@
+print("I'm, going on a run")
+print("hello")
+print("hello\n world")
+print("hello\t world")
+print(len("hello"))
